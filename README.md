@@ -10,3 +10,5 @@ Members:
 - Katie Zhang
 - Seojin Lee
 - Ted Lee
+
+Slides Link: 
