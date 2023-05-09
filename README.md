@@ -12,3 +12,4 @@ Members:
 - Ted Lee
 
 Slides Link: 
+https://www.youtube.com/watch?v=nJ3H-DwWlls
